@@ -4,7 +4,7 @@ Merging short-exposure frames can provide an image with reduced noise in low lig
 
 ## How to use
 1. Put a sequence of noisy **RAW** frames and its corresponding inertial sensor data in the current folder
-2. Run **Main_lowLight.m** to get merged (denoised) frame in RAW format
+2. Run **Main_LowLight.m** to get merged (denoised) frame in RAW format
 3. Run **ProcessMergedImage.m** to get PNG result.
 
 ## Citation
