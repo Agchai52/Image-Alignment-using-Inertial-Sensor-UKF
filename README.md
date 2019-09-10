@@ -9,9 +9,14 @@ Merging short-exposure frames can provide an image with reduced noise in low lig
 
 ## Citation
 @article{InertiaUKF:2018,
+
   title={Inertia Sensor Aided Alignment for Burst Pipeline in Low Light Conditions},
+  
   author={Shuang Zhang and Robert L. Stevenson},
+  
   journal={2018 25th IEEE International Conference on Image Processing (ICIP)},
+  
   year={2018},
+  
   pages={3953-3957}
 }
